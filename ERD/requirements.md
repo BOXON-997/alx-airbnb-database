@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Check out my visualized ER design on the Database Design
 
 https://drive.google.com/file/d/159a-F5gx9clbMiR_UcUy2wVcTmZZ099n/view?usp=sharing
